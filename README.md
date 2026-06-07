@@ -21,9 +21,6 @@ Most of the assets can be used with any engine, but they are particularly well s
 
 ## Preview
 
-
-[![](https://raw.githubusercontent.com/sparklinlabs/superpowers-asset-packs/master/3d-vehicles/preview.png)](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/3d-vehicles)
-
 [![](https://raw.githubusercontent.com/sparklinlabs/superpowers-asset-packs/master/backgrounds/preview.png)](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/backgrounds)
 
 [![](https://raw.githubusercontent.com/sparklinlabs/superpowers-asset-packs/master/medieval-fantasy/preview.png)](https://github.com/sparklinlabs/superpowers-asset-packs/tree/master/medieval-fantasy)
